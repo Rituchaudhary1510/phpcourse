@@ -1,5 +1,5 @@
 <?php
-		$companyname="Techsapphire";
-		$date="Jan 2020";
+		$companyname="TechSapphire";
+		$date="January 2020";
 
 ?>
